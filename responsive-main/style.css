@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+body {
+
+    margin: 0px;
+    padding: 0px;
+    background: black url(lolis/saint.jpg);
+    background-size: 100%;
+    background: linear-gradient();
+}
+head{
+    color:white
+}
+.titulor{
+    text-align: center;
+}
+
+#area-principal {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+#area-segunda {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+#area-terceira{
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+
+}
+#area-quarta{
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+#animes{
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+#footer{
+    width: 100%;
+
+    text-align: center;
+    background: black;
+    color:white;
+    clear: both;
+    text-align: center;
+}
+#temporada{
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+   
+}
